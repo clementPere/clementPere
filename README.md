@@ -2,3 +2,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Symfony 5 
 
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=clementPere)](https://github.com/anuraghazra/github-readme-stats)
+
+
